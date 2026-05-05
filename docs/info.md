@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Can be rendered as tiled or single floating logo. On user input 1 enabled it changes colors each time when logo bounces off screen boundoury.
 
 ## How to test
 
-Explain how to use your project
+Connect PMOD to VGA adapter and check screen and buttons responsivnes.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+PMOD to VGA converter. Primitive resisotr ladder DAC.
