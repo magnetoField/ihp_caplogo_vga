@@ -1,7 +1,7 @@
 /*
- * Copyright (c) 2024 Tiny Tapeout LTD
+ * Copyright (c) 2026
  * SPDX-License-Identifier: Apache-2.0
- * Author: Uri Shaked
+ * Author: Jakub Rachoń
  */
 
 `default_nettype none
@@ -108,6 +108,7 @@ module tt_um_vga_example (
       logo_top <= 200;
       dir_y <= 0;
       dir_x <= 1;
+      prev_y <= 0;
       color_index <= 0;
     end else begin
       prev_y <= pix_y;
