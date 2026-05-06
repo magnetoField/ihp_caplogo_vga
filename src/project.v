@@ -1,7 +1,11 @@
 /*
- * Copyright (c) 2026
+ * Copyright (c) 2024 Tiny Tapeout LTD
  * SPDX-License-Identifier: Apache-2.0
- * Author: Jakub Rachoń
+ * Author: Uri Shaked
+ * Changes:
+ * 05.05.2026 Jakub Rachoń -
+ * added prev_y vector to reset state initial value to pass
+ * extracted layout verification test with cocotb
  */
 
 `default_nettype none
