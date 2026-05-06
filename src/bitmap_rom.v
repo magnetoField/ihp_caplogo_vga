@@ -1,7 +1,10 @@
 /*
- * Copyright (c) 2026
+ * Copyright (c) 2024 Tiny Tapeout LTD
  * SPDX-License-Identifier: Apache-2.0
- * Author: Jakub Rachoń
+ * Author: Uri Shaked
+ * Changes:
+ * 05.05.2026 Jakub Rachoń -
+ * Replaced bit map rom to render Capgemini logo
  */
 
 `default_nettype none
